@@ -1,7 +1,9 @@
+import { TodoList } from "./TodoList";
+
 function App() {
   return (
     <div>
-      HELLO WORLD
+      <TodoList/>
     </div>
   );
 }
